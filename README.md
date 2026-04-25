@@ -162,16 +162,4 @@ Fixed random seed is set for:
 - NumPy
 - PyTorch (CPU and CUDA, if available)
 
-## GitHub Push Commands
-
-Use these commands from project root:
-
-```powershell
-git init
-git add .
-git commit -m "Add complete Earth Observation pipeline notebook, docs, and report template"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
 
