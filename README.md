@@ -1,6 +1,6 @@
 # Earth Observation System for Delhi Airshed Monitoring
 
-This repository contains an end-to-end Earth Observation pipeline for land-cover classification over the Delhi-NCR region using satellite imagery, geospatial processing, and deep learning.
+This repository contains an end-to-end Earth Observation pipeline for land-cover classification over the Delhi-NCR region using satellite imagery, geospatial processing and deep learning.
 
 The pipeline covers:
 
